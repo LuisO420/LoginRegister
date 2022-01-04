@@ -14,7 +14,7 @@ include("login-function.php");
         <input type="text" class="login-input" name="username" placeholder="Nombre de usuario" autofocus="true"/>
         <input type="password" class="login-input" name="password" placeholder="Contraseña"/>
         <input type="submit" value="Login" name="submit" class="login-button"/>
-        <p class="link"><a href="registration.php">New Registration</a></p>
+        <p class="link"><a href="registration.php">Nuevo registro</a></p>
   </form>
 </body>
 </html>
